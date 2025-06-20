@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers==4.28.0
+gtts
+Pillow
